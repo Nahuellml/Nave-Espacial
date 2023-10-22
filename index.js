@@ -22,8 +22,8 @@ class Ship {
         this.w = 100
         this.h = 80
         this.position = {
-        x: canvas.width/2,
-        y: canvas.height/2
+        x: canvas.width / 2,
+        y: canvas.height / 2 
         }
         this.velocity = {
             x: 0,
